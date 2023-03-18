@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html><!--Mở bài-->
+    <head>
+<title>Văn hóa Việt Nam </title>
+<meta charset="utf-8">
+<h5>Tìm Kiếm</h5>
+<input type="text">
+<style>
+    h1 {
+        color: red;
+        font-size: 60px;
+    }
+</style>
+<style>
+    h2,h3 {
+    color: blue;
+    font-size: 30px;
+    }
+</style>
+<style>
+    p {
+        font-size: 25px;
+    }
+</style>
+
+    </head>
+<!-- Thân bài -->
+<!--
+    1.h1-h6 (tiêu đề)
+    2.p
+    3.img
+    4.a
+    5.ul, li
+    6.table
+    7.input
+    8.button
+    9,div
+  -->
+    <body>
+        <h1>MINH TRIẾT TRONG TỤC NGỮ - CA DAO</h1>
+       <h2><b>I.Minh triết là gì?</b></h2>
+       <div class="lờitựa"> <p>Mỗi nền văn hóa đều ấp ủ tử tưởng liên quan đên những vấn đề nhân sinh quang, mà mọi người luôn khắc khoải kiếm tìm.</p> 
+            <p>Khắc khoải như thế là muốn đi tìm cho mình " chân lý sống" để lưu truyền cho dân tộc mình.
+                Con người và đất việt Nam đã trải qua bề dày lịch sử thăng trầm đã hình thành một nết sống riêng. Nhìn lại lịch sử đất nước ta đã có hơn một nghìn năm đô hộ bởi giặc tàu và 
+                gần trăm năm đô hộ giặc Tây với tham vọng đồng hóa nền văn hóa của họ trên văn hóa và tư tưởng của người Việt Nam. </p>
+            <p>Chính vì điều đó, nền văn hóa Việt Nam đã gặp phải những làn gió mới thổi vào. Vì thế, ngày nay tuy không còn thể hiện rõ nét nhưng ít nhiều cũng bị ảnh hưởng bởi những tư tưởng ngoại lai, những tư tưởng này đôi khi cũng tạo thành thể chế, những khuôn mẫu áp đặt và ngăn cách trên lối sống riêng của người dân Việt Nam, cho nên rất khó phân biệt đâu là nét chính, đâu là nét ngoại lai. Thế nhưng cha ông chúng ta là những người có ý thức trách nhiệm về dân tộc tính đã tìm cho mình một lối sống riêng để lưu truyền dưới nhiều hình thức và phổ biến nhất trong kho tàng thi ca bình dân là Tục ngữ - Ca dao. </p>
+            <p>Trong những câu nói nói ngắn gọn của Tục ngữ: vần điệu cảu Ca dao chúng ta thấy được sau những lời lẽ đơn sơ mộc mạc của những người bình dân ấy lại chứa đựng cả một hệ tư tưởng rất kín đáo, tế nhị và thâm sâu nhất mà chúng ta gọi là MINH TRIẾT. Để hiểu rõ Minh triết Việt, thiết tưởng chỉ có Tục ngữ - Ca dao mới có thể diễn đạt được. </p>
+            <p>Nhưng, Minh triết việt không phải là triết lý và cũng không phải là triết học. Vậy, Minh triết là gì? Chúng ta dùng lối suy tư có tính triết học để tiếp cận hạn từ này.</p></div>
+       
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Tr%E1%BB%91ng_%C4%91%E1%BB%93ng_%C4%90%C3%B4ng_S%C6%A1n.svg" alt="">
+        <h3><b>Định nghĩa:</b></h3>
+        <P>Minh Triết theo Từ Điển Tiếng Việt đã định nghĩa như sau: </P>
+        <p><b>Minh:sáng sủa, tỏ rạng: biết thấu đáo các sự vật và hiện tượng</b></p>
+        <p><b>Triết:</b>hiểu rõ sự lý, chẻ ra, mổ xẻ từng sự thể, từng thực tại ra từng mảnh để nhìn vào lòng của thực tại đó</p>
+        <p>Như vây, minh triết là biết rõ các sự thể cách triệt để và thấu đáo đến cùng kỳ lý.<p>
+
+           <p> Để hiểu rõ hơn về Minh Triết thì như linh mục Kim Định đã quan niệm như sau:
+            <i>"Minh triết Việt là nhìn ra trời ngay trong đất. Điều ấy có nghĩa nhìn thấy đạo trong đời, nhìn thấy các phi thường ngay trong cái tầm thường, nhìn thấy cái vô biên trong cái hữu hạn. Chính vì thấy, mà chúng ta có thể hãnh diện là dân tộc duy nhất không có triết học, là vì triết học đã được thâu nhậm vào đời sống nên gọi là giao lạc, giao chỉ theo nghĩa là hai hai chỉ giao nhau: chỉ trời giao thoa với đất, chỉ cái phi thường giao thoa với cái tầm thường,, nói cách khác là triết học được thực hiện vào đời sống, nên không còn là triết học đứng riêng, mà nó quyện lại để tạo nên minh triết Việt"</i>
+        </p>
+        <p>Trong minh triết không có thầy dạy rõ ràng, nó khởi đi từ những kinh nghiệm ngàn đời đã đi vào lòng người và nó đi vào chính cuộc sống này. Do đó, phải chăng mỗi một người dân Việt đều mang trong mình nền mình triết sống? Đúng vậy, một người không có ý niệm về triết lý, hay không có khả năng về triết học, về những suy tư- lý luận nhưng họ sống trọn vẹn cái kinh nghiệm khôn ngoan từng trải bao đời đó là minh triết vậy. hay nói đúng hơn tư tưởng triết học đính hôn với cuộc đời họ, thâm nhập vào những sinh hoạthằng ngày mà không thể tách rời, cái đó gọi là minh triết.</p>
+        <p>Minh triết Việt được xem như đèn soi cho chính cuộc đời của mỗi người đẻ họ sống đúng, sống triết và sống các khôn ngoan của bao đời. Người có tiết học chưa chắc là người sống triết, nhưng người có minh triết là người sống triết, bởi vì người đan một khi đã đã thấm đẫm những kinh nghiệm ngàn đời của bao thế hệ cha ông ta, với mối tình đằm thắm giữa con người với với thiên nhiên , từ đó minh triết thấm nhập vào từng ngóc ngách của hiện sinh và nhân sinh. Minh triết không còn là một lý thuyêt suông, nhưng là những kinh nghiệm cụ thể , và minh triết cũng không bàn về những lý thuyết cao siêu siêu khó hiểu nhưng nó nó đi vào chính cái bình thường trong sinh hoạt hằng ngày của người dân, như khi họ ngắm nhìn một cách cò, một hồ sen, một mái đình, một cây đa, hay một thềm giếng,v.v...họ đều tìm ra được một kinh nghiệm, một lẽ sống, một đạo lý, hay một tình yêu ẩn tàng trong đó.</p>
+        <p>Như vậy, minh triết là biết được một các bao trùm vạn sự, phủ trùm vạn thể, và thấu đáo vạn vật. Để diễn tả nền minh triết sâu xa ấy, ta không tìm đâu khác ngoài Tục ngữ-Ca dao.</p>
+        <img src="https://tranhghepvai.vn/wp-content/uploads/2019/08/tranh-dan-gian-viet-nam-3.jpg" alt="">
+        <h3>II. Những định nghĩa</h3>
+        <h3>1. Tục ngữ:</h3>
+        <p>Đại từ điển Tiếng Việt đã định nghĩa như sau:<i>"Tục ngữ là những câu văn ngắn gọn, có vần điệu lưu truyền trong dân gia, đúc kết tri thức, kinh nghiệm thực tiễn của con người về tự nhiên, xã hội, cuộc sống và đạo lý ở đời"
+ </i> Do đó, một câu tục ngữ phải phải được <i>"diễn tả trọn một ý, một nhận xét, một kinh nghiệm, một luân lý, có khi còn là một sự phê phán</i></p>
+        <h3> Một số ví dụ về tục ngữ:</h3>
+        <P>Trong lao động sản xuất:<a href="https://meta.vn/huong-dan/tong-hop/nhung-cau-ca-dao-tuc-ngu-noi-ve-thien-nhien-va-lao-dong-san-xuat-11311">xem tại đây</a></P>
+        <p>Trong trồng trọt:<a href="https://hoatieu.vn/hoc-tap/thanh-ngu-ca-dao-tuc-ngu-noi-ve-vai-tro-cua-giong-cay-trong-211794">xem tại đây</a></p>
+        <p>Trong chăn nuôi:<a href="https://cadao.me/the/chan-nuoi/">xem tại đây</a></p>
+        <p>Trong quan hệ giữa con người và xã hội:<a href="https://meta.vn/huong-dan/tong-hop/tuc-ngu-ve-con-nguoi-va-xa-hoi-12831">xem tại đây</a></p>
+        <img src="https://amia.vn/wp-content/uploads/2017/07/tranh-phong-canh-que-huong-247-702x380.jpg" alt="">
+        <h3>2. Ca dao:</h3>
+        <P>Khi nói về ca dao, ta rất kho phân biệt đâu là mực thước của ca dao, hay ca dao được sáng tác theo thể lệ hay luận mẹo nào của thi ca. Vì thế, chúng ta không thể đưa ra một định nghĩa nào cho thỏa đáng về tất cả các yêu cầu của ca dao. Vì thế, chúng ta chỉ đề cập một số định nghĩa giúp hiểu đực phần nào.</P>
+        <p>Bộ Giáo Dục và Đào Tạo cho rằng:<i>"Ca dao là thể thơ dân gian, được lưu truyền dưới damgj câu hát, có ý nghĩa sâu sắc và là thể loại văn tầm thường bằng thể thơ lục bát có dạng ca dao"</i></p>
+        <p>Nhà thơ Vũ Ngọc Phan lại quan niệm khác:<i>"Ca dao là một loại thơ dân gian có thể ngâm được như các loại thơ khác và có thể xây dựng thành các điệu ca dao</i></p>
+       
+        <img Width="1000" height="500" src="https://bantranh.com/wp-content/uploads/2019/09/34C7B1D8-8B93-477F-BCCA-669DEC3F3BDD.jpeg" alt="">
+        <p>Hai định nghĩa trên chúng ta thấy<b>không có sự khác biệt nhiều giữa thơ và ca dao.</b>Cũng như Tục ngữ-Ca dao là những bài văn vần do cá nhân và tập thể nhân dân sáng tác được lưu truyền rộng rãi trong dân gian. Vì nó là thể văn đa số được truyền miệng nên chúng ta rất khó biết được đâu là ca dao nguyên thể, vì khi một câu ca dao được sáng tác lúc ra, lúc đầu chưa chắc đã hoàn chỉnh và mgay sau đó, hoặc qua thời gian và bối cảnh đã được nhiều người thêm bớt, sửa chữa cho phù hợp với âm sắc, từ ngữ cho phù hợp với địa phương, cứ như thế cho đến khi câu ca dao được hoàn chỉnh cả lời lẫn ý  </p>
+        <p><a href="https://www.invert.vn/ca-dao-tuc-ngu-ar5394">Tham khảo thêm về ca dao</a></p>
+        <footer>
+            <h2>Trích từ sách " Minh triết trong Tục ngữ-Ca dao"(NXB Đồng Nai)</h2>
+            <h2>Tác giả: Thiên Chức</h2>
+        </footer>
+    </body>
+</html>
